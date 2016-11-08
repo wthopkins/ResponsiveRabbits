@@ -41,7 +41,7 @@
  */
 
 document.write('<scr'+'ipt type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js" ></scr'+'ipt>');
-var lang;
+var lang; //modifying some code
 
 function getWelcome() {
     lang = getLanguage();
